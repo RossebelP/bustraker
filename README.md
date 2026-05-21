@@ -32,6 +32,12 @@ Sin clave de MapTiler la app usa teselas publicas de OpenStreetMap como respaldo
 - `lib/structures/circular_double_list.dart`: lista circular doble para estaciones navegables en ambos sentidos.
 - `test/structures_test.dart`: pruebas de insercion, eliminacion, busqueda, recorrido y navegacion.
 
+## Documentacion completa
+
+La explicacion detallada de cada archivo, clase, metodo, estructura, imagen e implementacion esta en:
+
+- `DOCUMENTACION.md`
+
 ## Uso real de las estructuras
 
 | Estructura | Archivo | Uso en la app |
